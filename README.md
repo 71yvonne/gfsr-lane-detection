@@ -1,5 +1,9 @@
 # GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection
 
+[![arXiv](https://img.shields.io/badge/arXiv-2605.23327-333333?labelColor=b31b1b&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.23327)
+
+Paper: [arXiv:2605.23327](https://arxiv.org/abs/2605.23327)
+
 The full runnable GFSR code will be released publicly once the paper is accepted for publication.
 
 ## Qualitative Comparison
